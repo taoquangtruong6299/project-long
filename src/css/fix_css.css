@@ -1,0 +1,17 @@
+.form_create {
+  z-index: 999;
+  position: fixed;
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  left: 10%;
+  background-color: antiquewhite;
+}
+
+.btn_close {
+  width: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  position: absolute;
+  right: 0;
+}
